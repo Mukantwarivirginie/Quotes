@@ -2,9 +2,9 @@
 
 This project intitled Quotes App was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
-## Autor name
+## Author name
 
-virginie mukantwari
+Virginie Mukantwari
 
 ## description
 
