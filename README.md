@@ -29,9 +29,9 @@ virgm2020@gmail.com
 
 https://mukantwarivirginie.github.io/Quotes/
 
-## copyright and license information
+## Copyright and license information
 
-MIT Copyright 2019
+MIT copyright 2019
 
 ## Development server
 
