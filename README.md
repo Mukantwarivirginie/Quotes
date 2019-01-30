@@ -19,3 +19,21 @@ to create quotes and  voted  we using Angular
 javascript
 Bootstrap
 
+## Contact Information
+
+virgm2020@gmail.com
+
+0786679517
+
+## link to live site on GitHub Pages
+
+https://mukantwarivirginie.github.io/Quotes/
+
+## copyright and license information
+
+MIT Copyright 2019
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
