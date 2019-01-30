@@ -6,9 +6,9 @@ This project intitled Quotes App was generated with [Angular CLI](https://github
 
 Virginie Mukantwari
 
-## description
+## Description
 
-to create quotes and  voted we using Angular 
+To create quotes and  voted we  using Angular
 
 
 ## Technology used
