@@ -11,7 +11,7 @@ Virginie Mukantwari
 To create quotes and  voted we  using Angular
 
 
-## Technorogy used
+## Technology used
 
  html
  css
@@ -29,9 +29,9 @@ virgm2020@gmail.com
 
 https://mukantwarivirginie.github.io/Quotes/
 
-## Copyright and license information
+## Copyrght and license information
 
-MIT copyrght 2019
+MIT Copyrght 2019
 
 ## Development server
 
