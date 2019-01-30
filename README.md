@@ -31,7 +31,7 @@ https://mukantwarivirginie.github.io/Quotes/
 
 ## Copyright and license information
 
-MIT copyright 2019
+MIT copyrght 2019
 
 ## Development server
 
