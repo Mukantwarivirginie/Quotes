@@ -11,7 +11,7 @@ Virginie Mukantwari
 To create quotes and  voted we  using Angular
 
 
-## Technology used
+## Technorogy used
 
  html
  css
