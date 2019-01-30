@@ -1,6 +1,11 @@
 <p>
   quotes-details works!
 </p>
+<P>{{quote.submittedby}}</P>
 <p>{{quote.description}}</p>
+<p>{{quote.upvote }}</p>
+<button class="btn btn-danger" (click) = 'upvote()'>upvote</button>
+<p>{{quote.downvote}}</p>
+<button  class="btn btn-danger" (click) = 'downvote() '>downvote</button>
 <p>complete in {{quote.completeDate|dateCount}} days</p>
-<button class="btn btn-danger"> Delete Quotes </button>
+<button class="btn btn-danger" (click) = 'quoteDelete(true)' > Delete Quotes </button>

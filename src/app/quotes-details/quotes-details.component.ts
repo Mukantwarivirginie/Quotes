@@ -9,10 +9,16 @@ import { Quotes } from '../quotes'
 export class QuotesDetailsComponent implements OnInit {
   @Input() quote:Quotes;
   @Output() isComplete= new EventEmitter<boolean>();
-  QuotesDelete(complete:boolean){
+
+  quoteDelete(complete:boolean){
     this.isComplete.emit(complete);
   }
-
+  upvote(){
+    this.quote.upvote++;
+  }
+downvote(){
+  this.quote.downvote++;
+}
   constructor() { }
 
   ngOnInit() {
