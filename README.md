@@ -8,7 +8,7 @@ virginie mukantwari
 
 ## description
 
-to create quotes and  voted  we using Angular 
+to create quotes and  voted we using Angular 
 
 
 ## Technology used
