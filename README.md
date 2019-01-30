@@ -15,8 +15,8 @@ to create quotes and  voted we using Angular
 
  html
  css
- Angular 
-javascript
+ Angular
+ Javascript
 Bootstrap
 
 ## Contact Information
