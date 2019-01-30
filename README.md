@@ -19,10 +19,10 @@ to create quotes and  voted we using Angular
  Javascript
 Bootstrap
 
-## Contact Information
+
+## Contact information
 
 virgm2020@gmail.com
-
 0786679517
 
 ## link to live site on GitHub Pages
