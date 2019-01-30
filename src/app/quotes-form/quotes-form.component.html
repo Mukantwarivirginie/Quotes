@@ -31,7 +31,7 @@
           <div class="form-group">
   
             <label for="name">username</label>
-            <input type="text"  class="form-control" id="name" [(ngModel)]="newQuotes.submittedBy" name="name" #name="ngModel" required>
+            <input type="text"  class="form-control" id="name" [(ngModel)]="newQuotes.submittedby" name="name" #name="ngModel" required>
             <div [hidden]="name.valid || name.pristine" class="alert alert-danger">
             <p> Name is Required</p>
           </div>
